@@ -1,0 +1,98 @@
+*{margin: 0;padding: 0;outline: 0;}
+.containar {
+    width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #999;
+}
+
+.box {
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 8px #8CE;
+}
+.box h2 {
+    text-align: center;
+    color: #8A8A8A;
+    font-size: 23px;
+    margin-bottom: 9px;
+}
+.box p {
+    text-align: center;
+    color: #8A8A8A;
+}
+.social ul li {
+    list-style: none;
+    display: block;
+    margin-bottom: 10px;
+    background: #335A9E;
+    width: 210px;
+    border-radius: 6px;
+    margin: 12px auto;
+}
+.social ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 15px;
+    display: block;
+
+    border-radius: 6px;
+}
+.social ul .google a{}
+.social ul li a i{
+    padding-right: 15px;
+    font-size: 20px;
+}
+hr.hr1{
+    width: 178px;
+    display: inline-block;
+    float: left;
+    margin-top: 9px;
+    margin-right: 4px;
+}
+hr.hr2{
+    width: 176px;
+    display: inline-block;
+    float: right;
+    margin-top: 9px;
+    margin-right: 4px;
+}
+.same {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 8px 14px;
+    margin: 6px;
+    box-shadow: 2px -1px -10px #999;
+    background: transparent;
+    border: 1px solid #999;
+    border-radius: 6px;
+}
+span{}
+.update {
+    margin: 14px 0;
+    text-align: left !important;
+}
+.account{}
+.account .left {
+    float: left;
+    width: 50%;
+    margin: 3px -26px 8px 7px;
+}
+.account .right {
+    float: left;
+    width: 50%;
+    margin: 3px 0px 17px -12px;
+}
+.btn {
+    padding: 6px 28px;
+    font-size: 19px;
+    background: #5789A8;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+.footer{}
